@@ -15,7 +15,7 @@ public class VerifyReg {
 	//WebDriver driver=BrowserFactory.launchBrowser("chrome","http://demo.guru99.com/test/newtours/register.php");
 	/*static WebDriver driver=null;
 		
-		//selenium 6666688889999
+		//selenium 6666688889999 0000
 		 
 	public static void NavigateToURL(String URL) {
 		driver.get(URL);
